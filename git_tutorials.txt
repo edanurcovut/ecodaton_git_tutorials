@@ -5,3 +5,30 @@ clear
 
 
 [A[A[A[C[[C[[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/edanurcovut/ecodaton_git_tutorials.git
+git push -u origin main
+
+
+
+[A[A[A[A[A[A[A[A[A
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/edanurcovut/ecodaton_git_tutorials.git
+git push -u origin main
+
+
+
+
+
+
+
+
